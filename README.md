@@ -10,7 +10,7 @@ Repository to push notes and exercises practiced on course
 
 1. [X] Criação do projeto e instalação do Jest
 2. [X] Introdução ao Jest e criação do primeiro teste
-3. [ ] Jest watch mode: observar alterações nos arquivos
+3. [X] Jest watch mode: observar alterações nos arquivos
 4. [ ] Implementar library para gerar quer strings com TDD
 5. [ ] Instalar a configurar o Prettier
 6. [ ] Refatorando com confiança
