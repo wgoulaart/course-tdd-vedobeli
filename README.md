@@ -8,6 +8,7 @@ Repository to push notes and exercises practiced on course
 
 #### 31 Aulas - 3 horas, 29 min  
 
+
 1. [ ] Criação do projeto e instalação do Jest
 2. [ ] Introdução ao Jest e criação do primeiro teste
 3. [ ] Jest watch mode: observar alterações nos arquivos
